@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django - mySql - React**
 
-- 👨‍💻 All of my projects are available at [https://main--porfoliojulianmerchan.netlify.app/](https://main--porfoliojulianmerchan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://main--porfoliojulianmerchan.netlify.app/](https://rb.gy/3km1yv)
 
 - 💬 Ask me about **Python and HTML**
 
