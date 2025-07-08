@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://main--porfoliojulianmerchan.netlify.app/](https://rb.gy/3km1yv)
 
-- 💬 Ask me about **Python and HTML**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **engjuliangonzalez@gmail.com**
 
