@@ -7,13 +7,6 @@
 <h1 align="center">Hola 👋, soy <b>Julian Merchan</b></h1>
 <h3 align="center">💻 Estudiante de Ingeniería de Software | 🚀 Apasionado por la tecnología</h3>
 
-<!-- Typing effect -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&width=435&lines=Software+Engineering+Student;Python+Lover🐍;Siempre+aprendiendo+nuevas+tecnologías;Fullstack+Developer+en+proceso" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### 🌟 Sobre mí
