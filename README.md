@@ -10,7 +10,7 @@
 ---
 
 ### 🌟 Sobre mí
-- 🔭 Actualmente trabajando en: **Tienda-Tornillo**  
+- 🔭 Actualmente trabajando en: **STGS-Farmashaio**  
 - 🌱 Aprendiendo: **Django | MySQL | React**  
 - 👨‍💻 Todos mis proyectos: [Portafolio Web](https://main--porfoliojulianmerchan.netlify.app/)  
 - 💬 Pregúntame sobre: **Python y desarrollo backend**  
