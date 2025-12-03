@@ -1,121 +1,82 @@
-<!-- Banner Animado con Gradiente -->
+<!-- Banner Principal (Tu GIF original que sí funciona) -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D300%26section%3Dheader%26text%3DHola%2520👋,%20soy%20Julian&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Software%20en%20formación&descAlignY=51&descAlign=50" alt="Header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Banner Animado" />
 </div>
 
-<!-- Texto con efecto de escritura (Typing Effect) -->
+<!-- Título y Subtítulo Centrados -->
 
+<h1 align="center">Hola 👋, soy Julián Merchan</h1>
 <h3 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DDesarrollador%2BBackend%3BApasionado%2Bpor%2BPython%2B%2526%2BDjango%3BIngeniero%2Bde%2BSoftware%3BCreando%2Bsoluciones%2Btecnol%C3%B3gicas" alt="Typing SVG" />
-</a>
+💻 Estudiante de Ingeniería de Software | 🚀 Backend Enthusiast
 </h3>
 
-<!-- Sección Sobre Mí con Iconos -->
-
-<div align="center">
-
-🚀 Sobre mí
-
-<table>
-<tr>
-<td valign="center">
-🎓 <b>Estudio:</b> Ingeniería de Software
-
-
-
-
-🔭 <b>Trabajo actual:</b> <a href="#">STGS-Farmashaio</a>
-
-
-
-
-🌱 <b>Aprendiendo:</b> Django, MySQL & React
-
-
-
-
-💼 <b>Portafolio:</b> <a href="https://main--porfoliojulianmerchan.netlify.app/" target="_blank">Ver Proyectos</a>
-
-
-
-
-💬 <b>Pregúntame sobre:</b> Python y Backend Development
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Stack Tecnológico Organizado -->
-
-<h3 align="center">🛠️ Arsenales Tecnológicos</h3>
-
-<div align="center">
-
-<!-- Lenguajes Principales -->
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,go,kotlin%26theme%3Ddark" />
-
-
-
-<!-- Web & Frameworks -->
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddjango,react,vue,html,css,js,nodejs%26theme%3Ddark" />
-
-
-
-<!-- Bases de Datos & Herramientas -->
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,sqlite,git,github,linux,arduino%26theme%3Ddark" />
-
-</div>
-
-<!-- Estadísticas de GitHub -->
-
-<h3 align="center">📊 Mis Estadísticas</h3>
-
-<div align="center">
-<p>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJulian-Enable%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="180" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJulian-Enable%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="180" alt="languages graph" />
-</p>
-</div>
-
-<!-- Racha de contribuciones (Opcional, se ve muy bien) -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DJulian-Enable%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="streak stats" />
-</div>
-
-<!-- Redes Sociales y Contacto -->
-
-<h3 align="center">🌐 Conecta conmigo</h3>
+<!-- Redes Sociales (Badges estilo moderno) -->
 
 <div align="center">
 <a href="https://www.linkedin.com/in/julian-gonzalez-46ba5524a" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" target="_blank" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 <a href="mailto:engjuliangonzalez@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://main--porfoliojulianmerchan.netlify.app/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portafolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" target="_blank" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portafolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="Portafolio" />
 </a>
 </div>
 
-<!-- Footer y Cita -->
+<!-- Sección Sobre Mí -->
+
+⚡ Sobre mí
+
+Me apasiona crear soluciones eficientes y escalables. Actualmente profundizando en el ecosistema de Python.
+
+🔭 Trabajo actual: Desarrollador en STGS-Farmashaio
+
+🌱 Aprendiendo: Django • MySQL • React
+
+💬 Intereses: Arquitectura de Software, Backend Development y Automatización.
+
+⚡ Dato curioso: "La confusión es el primer paso hacia la comprensión" 🧩
+
+<!-- Stack Tecnológico (Usando Shields.io que es más rápido y estable) -->
+
+🛠️ Herramientas y Tecnologías
 
 <div align="center">
-<i><b>"La confusión es parte de la programación"</b> 🚀</i>
 
+<!-- Lenguajes -->
 
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" />
 
+<!-- Frameworks & Web -->
 
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-35495E%3Fstyle%3Dfor-the-badge%26logo%3Dvue.js%26logoColor%3D4FC08D" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
 
+<!-- Tools & DB -->
 
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-<!-- Contador de visitas -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DJulian-Enable%26label%3DPerfil%2BVisto%26color%3Dblue%26style%3Dflat" alt="Profile views" />
 </div>
+
+<!-- Estadísticas (Nota: Si estas fallan es por el servidor, pero suelen volver rápido) -->
+
+📊 Estadísticas de GitHub
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJulian-Enable%26show_icons%3Dtrue%26theme%3Dmidnight-owl%26hide_border%3Dtrue" height="160" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJulian-Enable%26layout%3Dcompact%26theme%3Dmidnight-owl%26hide_border%3Dtrue" height="160" alt="Top Languages" />
+</div>
+
+<p align="center">
+<i>Gracias por visitar mi perfil</i> 🚀
+</p>
