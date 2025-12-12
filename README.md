@@ -20,11 +20,8 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Julian-Enable&show_icons=true&theme=tokyonight&hide_border=true" alt="Julian's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Enable&layout=compact&theme=tokyonight&hide_border=true" alt="Julian's Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julian-Enable&theme=tokyonight&hide_border=true" alt="Julian's Streak" />
   </a>
 </p>
 
