@@ -19,12 +19,7 @@
 
 ### 📊 Estadísticas
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Julian-Enable&theme=tokyonight&hide_border=true" alt="Julian's Streak" />
-  </a>
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Julian-Enable&theme=dark" alt="GitHub Streak" /></a>
 ---
 
 ### 🛠️ Lenguajes y Herramientas
