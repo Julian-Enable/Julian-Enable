@@ -20,8 +20,8 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julian-Enable&theme=tokyonight&hide_border=true" alt="Julian's Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Julian-Enable&theme=tokyonight&hide_border=true" alt="Julian's Streak Stats" />
   </a>
 </p>
 
