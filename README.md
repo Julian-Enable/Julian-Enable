@@ -11,7 +11,7 @@
 
 - 🔭 Actualmente trabajando en: **STGS-Farmashaio**
 - 🌱 Aprendiendo: **Django | MySQL | React**
-- 👨‍💻 Todos mis proyectos: [Portafolio Web]([https://main--porfoliojulianmerchan.netlify.app/](https://juliangonzalez.vercel.app/))
+- 👨‍💻 Todos mis proyectos: [Portafolio Web](https://juliangonzalez.vercel.app/)
 - 💬 Pregúntame sobre: **Python y desarrollo backend**
 - 📫 Contáctame: **engjuliangonzalez@gmail.com**
 
